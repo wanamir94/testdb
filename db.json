@@ -1,5 +1,8 @@
 {
-  "Team":"Blue",
-  "Name":"Wan",
-  "Score":10
+  "Profile":
+  {
+    "Team":"Blue",
+    "Name":"Wan",
+    "Score":10
+  }
 }
